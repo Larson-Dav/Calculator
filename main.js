@@ -19,6 +19,7 @@ function Calculate(term1, operator, term2){
 }
 
 function Add(param1, param2){
+    return param1 + param2
 }
 
 function Sub(param1, param2){
