@@ -30,5 +30,9 @@ function Mul(param1, param2){
     // done by Julien
 }
 
+function Mod(param1, param2){
+    return param1 % param2
+}
+
 function Div(param1, param2){
 }
