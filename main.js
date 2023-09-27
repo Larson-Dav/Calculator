@@ -21,6 +21,9 @@ function Sub(param1, param2){
 }
 
 function Mul(param1, param2){
+    return param1 * param2
+    // done by Julien
+}{
 }
 
 function Div(param1, param2){
